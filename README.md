@@ -6,3 +6,8 @@ Consigna =
 1-      Crear una función que evalúe si un usuario es mayor de edad, el resultado deberá mostrarse mediante una ventana (utilizar Alert)
 
 2-      Modificar el programa anterior para que evalué el ingreso de 3 usuarios e indique cuál de ellos es el mayor
+
+
+Prueba online = 
+
+http://cursophp.foxit.com.ar/comision2113/Rodrigo_Contreras/TP%20Javascript%20Unidad%203/
